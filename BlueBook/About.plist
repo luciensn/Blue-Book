@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>COPYRIGHT</key>
+	<string>© 2014 Scott Lucien</string>
+	<key>WEBSITE</key>
+	<string></string>
+	<key>WEBSITE_URL</key>
+	<string></string>
+	<key>TWITTER</key>
+	<string></string>
+	<key>TWITTER_URL</key>
+	<string></string>
+	<key>EMAIL</key>
+	<string></string>
+	<key>APPSTORE_NAME</key>
+	<string>Blue Book for iOS Contacts</string>
+	<key>APPSTORE_URL</key>
+	<string>https://itunes.apple.com/us/app/blue-book-for-ios-contacts/id780194015?ls=1&amp;mt=8</string>
+	<key>SHORT_URL</key>
+	<string>http://bit.ly/18Ka56t</string>
+	<key>LOCATION</key>
+	<string></string>
+</dict>
+</plist>
